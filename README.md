@@ -36,10 +36,9 @@ The project is organized into the following main components:
 To run the project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Download the dataset (`NI_hourly.csv`) and place it in the project directory.
-4. Run the Jupyter Notebook (`energy_usage_prediction.ipynb`) to execute the code and generate predictions.
-5. View the results and analysis in the notebook, and adjust parameters or experiment with different models as needed.
+2. Download the dataset (`NI_hourly.csv`) and place it in the project directory.
+3. Run the Jupyter Notebook (`energy_usage_prediction.ipynb`) to execute the code and generate predictions.
+4. View the results and analysis in the notebook, and adjust parameters or experiment with different models as needed.
 
 ## Dependencies
 
